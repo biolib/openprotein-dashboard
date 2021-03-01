@@ -10,7 +10,7 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "signals": "^1.0.0",
-    "three": "^0.99.0"
+    "three": "^0.125.0"
   },
   "main": "lib/lib.js",
   "types": "lib/lib.d.ts",
