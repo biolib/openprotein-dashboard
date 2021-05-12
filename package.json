@@ -4,7 +4,7 @@
   "dependencies": {
     "@types/chart.js": "^2.7.41",
     "@types/jquery": "^3.3.22",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "jquery": "^3.3.1",
     "ngl": "^0.10.4",
     "react": "^16.6.3",
